@@ -7,6 +7,14 @@ This project has two parts that demonstrate the importance and value of data vis
 ## Data
 <a href=https://www.lyft.com/bikes/bay-wheels>Bay Wheels</a> (previously known as Ford GoBike) is a regional public bike sharing system in San Francisco Bay Area, California. Bay Wheels is the first regional and large-scale bicycle sharing system deployed in California and on the West Coast of the United States with nearly 500,000 rides since the launch in 2017 and had about 10,000 annual subscribers as of January 2018. The dataset used for this exploratory analysis consists of Bay Wheels's trip data for public use for February 2020, which you can find <a href=https://www.lyft.com/bikes/bay-wheels/system-data>here</a>.
 
+## Getting started
+You need an installation of Python, plus the following libraries:
+
+* numpy
+* pandas
+* matplotlib.pyplot
+* seaborn
+
 ## Motivation
 After exploratory data analysis using visual tools in Python, I was curious about how the data changes by hours and weekdays for different user types and different access methods, which helped me to put research questions.
 
